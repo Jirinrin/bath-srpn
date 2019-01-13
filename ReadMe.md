@@ -9,3 +9,7 @@ The program is a *Soviet calculator*, meaning that you have to first specify the
 To give you the full experience of discovering this thing gradually, I will not say anything more about the features, but if you're interested you can look at the source code.  
 (My submission received a very good score, you can be confident that it works as expected!)  
 To start the program, run SRPN.class (i.e. type `java SRPN` while in the directory with your terminal).
+
+## Demo
+
+![gif-1](/readme-images/srpn-1.gif)
